@@ -1,0 +1,11 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box ;
+font-family: arial,sans-serif;
+}
+ @media (max-width: 600px) {
+      .h1 {
+        font-size: 2rem;
+      }
+    }
